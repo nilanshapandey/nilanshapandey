@@ -25,8 +25,7 @@ I'm a Computer Science & Engineering student at **Lucknow University** and a pas
 | Project Name | Description | Tech Stack | Live Link |
 |--------------|-------------|------------|-----------|
 | **Age Calculator** | Calculates age from birthdate | HTML, CSS, JS | [Live](https://nilanshapandey.github.io/agecalculator) |
-| **Real Estate Website** | Property listing web app | HTML, CSS, .NET | [GitHub](https://github.com/nilanshapandey/RealEstate) |
-| **Event Booking Platform** | Book events online | HTML, Bootstrap, JS | — |
+| **TO -DO List** | Make Daily Goal|Html,CSS, JS|[Live](https://nilanshapandey.github.io/todolist) |_
 
 ---
 
