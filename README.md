@@ -25,7 +25,9 @@ I'm a Computer Science & Engineering student at **Lucknow University** and a pas
 | Project Name | Description | Tech Stack | Live Link |
 |--------------|-------------|------------|-----------|
 | **Age Calculator** | Calculates age from birthdate | HTML, CSS, JS | [Live](https://nilanshapandey.github.io/agecalculator) |
-| **TO -DO List** | Make Daily Goal|Html,CSS, JS|[Live](https://nilanshapandey.github.io/todolist) |_
+| **TO -DO List** | Make Daily Goal|Html,CSS, JS|[Live](https://nilanshapandey.github.io/todolist) |
+| ** Stvt** |Keep the data under tranning Student|Html,Css,Javascript,Python With djanogo|
+|** Resturant_Site** | The Restaurant Website provides an elegant online presence for a restaurant,|Html,Css,Javascript,Python with django|
 
 ---
 
