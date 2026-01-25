@@ -26,7 +26,7 @@ I'm a Computer Science & Engineering student at **Lucknow University** and a pas
 |--------------|-------------|------------|-----------|
 |**Age Calculator** | Calculates age from birthdate | HTML, CSS, JS | [Live](https://nilanshapandey.github.io/agecalculator) .|
 |**TO -DO List** | Make Daily Goal|Html,CSS, JS|[Live](https://nilanshapandey.github.io/todolist) .|
-|** Stvt** |Keep the data under tranning Student|Html,Css,Javascript,Python With djanogo.|Html,css ,javascript, python-django|---|
+|** Stvt** |Keep the data under tranning Student|Html,Css,Javascript,Python With djanogo.|-----|
 |** Resturant_Site** | The Restaurant Website provides an elegant online presence for a restaurant,|Html,Css,Javascript,Python with django.|---|
 |** Smart Health Assistant (AI Based)**|it is a Django-based web application that helps users analyze their **skin, hair, fitness, and general health.|Html,Css,Javascript,Python with django.|-----|
 |** product_scarper_software**| help to categorize the product and generate excel file .|Html,Css,Javascript,Python with django,json.|----|
