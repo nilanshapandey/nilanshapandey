@@ -1,80 +1,93 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=24&lines=Hi+I'm+Nilansha+Pandey;Web+Developer;PHP+%7C+Laravel;JavaScript+Enthusiast;Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=26&lines=Hi+I'm+Nilansha+Pandey;Web+Developer;PHP+%7C+Laravel+%7C+.NET;JavaScript+Enthusiast;GATE+CSE+Aspirant)
 
+---
 
+# 👋 Hi, I'm Nilansha Pandey
 
+🎓 **B.Tech CSE Student** | 💻 **Web Developer** | 🎯 **GATE CSE Aspirant** | 🌱 **Passionate Learner**
 
-
-# 👋 Hi there, I'm Nilansha Pandey!
-
-🎓 BTech CSE Student | 💻 Web Developer | 🎯 GATE Aspirant | 🌐 Passionate Learner  
+I love building clean, responsive, and user-friendly web applications and continuously improving my problem-solving skills.
 
 ---
 
 ## 🙋‍♀️ About Me
 
-I'm a Computer Science & Engineering student at **Lucknow University** and a passionate developer focused on building responsive, dynamic web applications. I have hands-on experience with `.NET`, front-end technologies, and am actively working on expanding my skills in **database administration**, **networking**, and **GATE CSE preparation**.
+I'm a **Computer Science & Engineering student at Lucknow University** with a strong interest in **web development and software engineering**.  
+I have hands-on experience in **front-end and back-end development** and I'm actively working on improving my knowledge in:
+
+- Web application development  
+- Database management  
+- Networking fundamentals  
+- GATE CSE core subjects  
+
+I believe in **consistent learning and real-world projects**.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages & Technologies
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![Laravel](https://img.shields.io/badge/Laravel-red)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
+![.NET](https://img.shields.io/badge/.NET-purple)
 
-- **Languages**: HTML, CSS, JavaScript, C, C++, SQL  
-- **Web Technologies**: .NET, Bootstrap, Node.js, Express.js  
-- **Databases**: MySQL, SQL Server  
-- **Tools**: Git, GitHub, VS Code, Postman  
-- **Other**: Networking Basics, Problem Solving, Leadership
+- **Languages:** HTML, CSS, JavaScript, C, C++, SQL  
+- **Frameworks & Tools:** Laravel, .NET, Bootstrap, Node.js, Express.js  
+- **Databases:** MySQL, SQL Server  
+- **Tools:** Git, GitHub, VS Code, Postman  
+- **Other Skills:** Networking Basics, Problem Solving, Leadership  
 
 ---
 
 ## 💼 Projects
 
-| Project Name | Description | Tech Stack | Live Link |
-|--------------|-------------|------------|-----------|
-|**Age Calculator** | Calculates age from birthdate | HTML, CSS, JS | [Live](https://nilanshapandey.github.io/agecalculator) .|
-|**TO -DO List** | Make Daily Goal|Html,CSS, JS|[Live](https://nilanshapandey.github.io/todolist) .|
-|** Stvt** |Keep the data under tranning Student|Html,Css,Javascript,Python With djanogo.|-----|
-|** Resturant_Site** | The Restaurant Website provides an elegant online presence for a restaurant,|Html,Css,Javascript,Python with django.|---|
-|** Smart Health Assistant (AI Based)**|it is a Django-based web application that helps users analyze their **skin, hair, fitness, and general health.|Html,Css,Javascript,Python with django.|-----|
-|** product_scarper_software**| help to categorize the product and generate excel file .|Html,Css,Javascript,Python with django,json.|----|
-|** Gate_Adda**| help student for find the all documents .|Html,Css,Javascript,Python with django.|-----|
+| Project | Description | Tech Stack | Live |
+|-------|------------|-----------|------|
+| **Age Calculator** | Calculates age from birth date | HTML, CSS, JS | [Live](https://nilanshapandey.github.io/agecalculator) |
+| **To-Do List** | Daily task & goal manager | HTML, CSS, JS | [Live](https://nilanshapandey.github.io/todolist) |
+| **STVT** | Training student data management system | HTML, CSS, JS, Python, Django | — |
+| **Restaurant Website** | Online presence for a restaurant | HTML, CSS, JS, Django | — |
+| **Smart Health Assistant (AI-Based)** | Health analysis for skin, hair & fitness | HTML, CSS, JS, Django | — |
+| **Product Scraper Software** | Categorizes products & generates Excel files | HTML, CSS, JS, Django, JSON | — |
+| **Gate Adda** | Central platform for GATE study documents | HTML, CSS, JS, Django | — |
+
 ---
 
 ## 🎓 Certifications
 
 - ✅ **Machine Learning** – Devtown  
-- ✅ **Backend Development with JavaScript & Node.js** – Devtown  
+- ✅ **Backend Development (Node.js & JavaScript)** – Devtown  
 - ✅ **Networking Basics** – Cisco Networking Academy  
 - ✅ **SQL Basics** – Simplilearn  
+
+---
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nilanshapandey&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=nilanshapandey&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilanshapandey&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nilanshapandey&theme=radical)
 
-
+---
 
 ## 🚀 Goals
 
-- 📘 Crack **GATE CSE** with AIR under 100  
-- 💡 Become a skilled **.NET Web Developer**  
-- 🛡️ Grow into a **Database Administrator**  
-- 🧠 Keep learning and sharing knowledge  
+- 📘 Crack **GATE CSE** with a top rank  
+- 💻 Become a skilled **Web / .NET Developer**  
+- 🗄️ Grow as a **Database Administrator**  
+- 🌱 Keep learning & building impactful projects  
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nilanshapandey)  
-- 🐱 [GitHub](https://github.com/nilanshapandey)  
-- ✉️ Email: nilansha777@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nilanshapandey  
+- 🐱 **GitHub:** https://github.com/nilanshapandey  
+- ✉️ **Email:** nilansha777@gmail.com  
 
 ---
 
-> “Consistency and curiosity are the keys to growth.”
-
+> ✨ *“Consistency, curiosity, and discipline create success.”*
