@@ -17,6 +17,14 @@ I'm a Computer Science & Engineering student at **Lucknow University** and a pas
 ---
 
 ## 🛠️ Skills
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
 
 - **Languages**: HTML, CSS, JavaScript, C, C++, SQL  
 - **Web Technologies**: .NET, Bootstrap, Node.js, Express.js  
@@ -26,10 +34,6 @@ I'm a Computer Science & Engineering student at **Lucknow University** and a pas
 
 ---
 
-
-## 🐍 Contribution Snake Game
-
-![Snake animation](https://raw.githubusercontent.com/nilanshapandey/output/github-contribution-grid-snake.svg)
 ## 💼 Projects
 
 | Project Name | Description | Tech Stack | Live Link |
@@ -49,8 +53,12 @@ I'm a Computer Science & Engineering student at **Lucknow University** and a pas
 - ✅ **Backend Development with JavaScript & Node.js** – Devtown  
 - ✅ **Networking Basics** – Cisco Networking Academy  
 - ✅ **SQL Basics** – Simplilearn  
+## 📊 GitHub Stats
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=nilanshapandey&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=nilanshapandey&theme=radical)
+
 
 ## 🚀 Goals
 
