@@ -1,3 +1,9 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=24&lines=Hi+I'm+Nilansha+Pandey;Web+Developer;PHP+%7C+Laravel;JavaScript+Enthusiast;Problem+Solver)
+
+
+
+
+
 # 👋 Hi there, I'm Nilansha Pandey!
 
 🎓 BTech CSE Student | 💻 Web Developer | 🎯 GATE Aspirant | 🌐 Passionate Learner  
@@ -20,6 +26,10 @@ I'm a Computer Science & Engineering student at **Lucknow University** and a pas
 
 ---
 
+
+## 🐍 Contribution Snake Game
+
+![Snake animation](https://raw.githubusercontent.com/nilanshapandey/output/github-contribution-grid-snake.svg)
 ## 💼 Projects
 
 | Project Name | Description | Tech Stack | Live Link |
