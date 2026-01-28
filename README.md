@@ -1,3 +1,6 @@
+
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=26&lines=Hi+I'm+Nilansha+Pandey;Web+Developer;PHP+%7C+Laravel+%7C+.NET;JavaScript+Enthusiast;GATE+CSE+Aspirant)
 
 ---
@@ -64,7 +67,10 @@ I believe in **consistent learning and real-world projects**.
 - ✅ **Networking Basics** – Cisco Networking Academy  
 - ✅ **SQL Basics** – Simplilearn  
 
----
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/nilanshapandey/output/snake.svg)
+
 
 ## 📊 GitHub Stats
 
