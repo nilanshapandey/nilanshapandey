@@ -69,9 +69,13 @@ I believe in **consistent learning and real-world projects**.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilanshapandey&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=nilanshapandey&theme=radical)
 
----
+
+---## 🎮 Play My Game
+
+🕹️ **Tic Tac Toe Game**  
+👉 https://nilanshapandey.github.io/tic-tac-toe-game/
+
 
 ## 🚀 Goals
 
