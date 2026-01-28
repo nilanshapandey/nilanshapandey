@@ -16,7 +16,6 @@ I'm a Computer Science & Engineering student at **Lucknow University** and a pas
 
 ---
 
-## 🛠️ Skills
 ## 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-orange)
@@ -56,8 +55,8 @@ I'm a Computer Science & Engineering student at **Lucknow University** and a pas
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nilanshapandey&show_icons=true&theme=radical)
-
 ![Streak](https://streak-stats.demolab.com/?user=nilanshapandey&theme=radical)
+
 
 
 ## 🚀 Goals
